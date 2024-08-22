@@ -3,7 +3,7 @@
 <br />  
 Welcome to the Statistics and Complex Variables MAT-201 repository. This repository contains course materials, assignments, and resources for the Statistics and Complex Variables course.  
 <br />  
-Check out the playlist now and start your learning journey: [Statistics and Complex Variables MAT-201 Youtube Playlist Link : ](https://youtube.com/playlist?list=YOUR_PLAYLIST_LINK_HERE)
+Check out the playlist now and start your learning journey: [Statistics and Complex Variables MAT-201 Youtube Playlist Link : ](https://youtube.com/playlist?list=PLEc-WcPXUsjsWdp5r0I3aE7HLZLNV4bGN&si=xats9LhxnKMGPytt)
 **Happy Learning!**
 <br />
 <img/>
