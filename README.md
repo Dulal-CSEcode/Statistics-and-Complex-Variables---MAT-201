@@ -1,5 +1,5 @@
 <h1 align="center">--- Statistics-and-Complex-Variables---MAT-201 ---</h1>  
-<h3 align="center">-- Fall 2021 --</h3>  
+<h3 align="center">-- Spring 2023 --</h3>  
 <br />  
 Welcome to the Statistics and Complex Variables MAT-201 repository. This repository contains course materials, assignments, and resources for the Statistics and Complex Variables course.  
 <br />  
@@ -8,7 +8,7 @@ Check out the playlist now and start your learning journey: [Statistics and Comp
 <br />
 <img/>
 
-![Statistics and Complex Variables](statisticsandcomplexvariablesbanner.PNG)
+![Statistics and Complex Variables](MAT201banner.PNG)
   
 <br />  
 
